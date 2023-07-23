@@ -9,6 +9,9 @@
   },
   "author": "Brad Traversy",
   "license": "MIT",
+  "engines": {
+    "node": ">=14.20.1"
+  },
   "devDependencies": {
     "@babel/core": "^7.20.7",
     "@babel/preset-env": "^7.20.2",
